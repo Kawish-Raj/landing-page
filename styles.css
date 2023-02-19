@@ -121,3 +121,25 @@ body {
 .image-item {
     width:158px;
 }
+
+
+
+/*********** Styles for third-sec section ************/
+
+.third-container {
+    background-color: #e5e7eb;
+    padding: 100px 270px 70px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 400;
+}
+
+.name {
+    text-align: right;
+    font-weight: bold;
+    font-size: 22px;
+}
+
