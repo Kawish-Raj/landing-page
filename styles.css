@@ -8,6 +8,17 @@ body {
     min-height:100vh;
 }
 
+.website-content {
+    flex-grow:1;
+    margin:0px;
+    padding:0px;
+    border: 0px;
+    font-family:'Roboto',sans-serif;
+    display:flex;
+    flex-direction: column;
+    min-height:100vh;
+}
+
 
 /************ Styles for header-hero section **************/
 
@@ -182,3 +193,13 @@ body {
     font-size:large;
 }
 
+/************ Styles for footer **********/
+
+.footer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
