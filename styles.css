@@ -143,3 +143,42 @@ body {
     font-size: 22px;
 }
 
+
+
+/************ Styles for fourth-sec section ************/
+
+.fourth-container {
+    padding: 70px 220px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-content {
+    background-color: #3882F6;
+    border-radius: 8px;
+    display:flex;
+    padding: 30px 50px;
+    width: 700px;
+    flex: 0 1 auto;
+}
+
+.fourth-sign-up {
+    margin-left:auto;
+    background-color: #3882F6;
+    border:solid #E5E7EB 2px;
+    border-radius: 8px;
+    width:100px;
+    padding:8px 0px;
+    color:#E5E7EB
+}
+
+.fourth-text {
+    color:#E5E7EB
+}
+
+.fourth-heading {
+    font-weight: 900;
+    font-size:large;
+}
+
